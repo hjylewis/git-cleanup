@@ -11,6 +11,7 @@ $ git branch
     already-merged
   * master
 $ git cleanup
+  Deleted branch already-merged
 $ git branch
   * master
 ```
