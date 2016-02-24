@@ -17,7 +17,7 @@ $ git branch
 
 ##Installation
 ```
-$ git clone ...
+$ git clone git@github.com:hjylewis/git-cleanup.git
 $ cd git-cleanup
 $ ./install.sh
 $ git cleanup
